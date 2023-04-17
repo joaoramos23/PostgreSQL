@@ -1,2 +1,2 @@
 # Projetos em SQL e PostgreSQL/plpgsql
->Aqui irei armazenar alguns mini projetos.
+>Aqui irei armazenar alguns projetos.
